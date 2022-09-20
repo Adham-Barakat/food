@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+}
+svg{
+    width: 100%;
+
+}
+.up1{
+    display: flex;
+     justify-content: space-between;
+}
+span{
+    color: red;
+    background-color: rgb(227, 215, 215);
+}
